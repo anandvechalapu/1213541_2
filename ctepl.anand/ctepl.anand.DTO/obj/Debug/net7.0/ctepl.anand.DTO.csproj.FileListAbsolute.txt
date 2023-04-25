@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\bin\Debug\net7.0\ctepl.anand.DTO.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\bin\Debug\net7.0\ctepl.anand.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\bin\Debug\net7.0\ctepl.anand.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\refint\ctepl.anand.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ctepl.anand.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\115\202304254801\ctepl.anand\ctepl.anand.DTO\obj\Debug\net7.0\ref\ctepl.anand.DTO.dll
