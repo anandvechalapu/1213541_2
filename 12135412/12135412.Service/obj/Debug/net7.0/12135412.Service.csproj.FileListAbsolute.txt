@@ -15,3 +15,6 @@ C:\Amar\Debug\Apps\1\146\202304265419\12135412\12135412.Service\obj\Debug\net7.0
 C:\Amar\Debug\Apps\1\146\202304265419\12135412\12135412.Service\obj\Debug\net7.0\refint\12135412.Service.dll
 C:\Amar\Debug\Apps\1\146\202304265419\12135412\12135412.Service\obj\Debug\net7.0\12135412.Service.pdb
 C:\Amar\Debug\Apps\1\146\202304265419\12135412\12135412.Service\obj\Debug\net7.0\ref\12135412.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\146\202304274305\12135412\12135412.Service\obj\Debug\net7.0\12135412.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\146\202304274305\12135412\12135412.Service\obj\Debug\net7.0\refint\12135412.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\146\202304274305\12135412\12135412.Service\obj\Debug\net7.0\12135412.Service.pdb
